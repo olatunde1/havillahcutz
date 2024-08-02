@@ -1,6 +1,8 @@
 // List of sentences
 var _CONTENT = [ 
-	"Never Caught Unfresh", 
+	"Never o, Never to be caught Unfresh",
+	"we got you covered",
+	"Your hair is our canvas!"
 	
 ];
 
